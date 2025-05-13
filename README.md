@@ -98,5 +98,5 @@ Potential Applications
 Feel free to fork this repository, suggest improvements, or adapt the code for other datasets. Submit issues or pull requests on GitHub.
 
 ## Contact
-For questions or support, contact (Email)[laila.mohamed.fikry@gmail.com].
+For questions or support, contact laila.mohamed.fikry@gmail.com.
 
