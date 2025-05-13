@@ -82,3 +82,21 @@ The project generates three key visualizations to interpret the model’s perfor
    Mean CV score: 0.920 (+/- 0.030)
    Test Set Accuracy: 0.935
    [Confusion matrix and plots displayed]
+Potential Applications
+```
+
+## Potential Applications
+- Medical Support: Assists doctors in predicting breast cancer risk based on biochemical markers, supporting early diagnosis.
+- Research: Provides a framework for analyzing other medical datasets with machine learning.
+
+## Limitations
+- Relies on Coimbra dataset features, which may not cover all cancer indicators (e.g., imaging).
+- Requires validation with real hospital data for clinical use.
+- Designed as a support tool, not a replacement for medical expertise.
+
+## Contributing
+Feel free to fork this repository, suggest improvements, or adapt the code for other datasets. Submit issues or pull requests on GitHub.
+
+## Contact
+For questions or support, contact (Email)[laila.mohamed.fikry@gmail.com].
+
