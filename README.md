@@ -94,9 +94,8 @@ Potential Applications
 - Requires validation with real hospital data for clinical use.
 - Designed as a support tool, not a replacement for medical expertise.
 
-## Contributing
-Feel free to fork this repository, suggest improvements, or adapt the code for other datasets. Submit issues or pull requests on GitHub.
-
-## Contact
-For questions or support, contact laila.mohamed.fikry@gmail.com.
+## Contributers
+Laila Mohamed Fikry laila.mohamed.fikry@gmail.com
+Sara Ahmed Mohamed 
+Eslam Mohamed Ahmed eslam.muhamed.ahmed@gmail.com
 
